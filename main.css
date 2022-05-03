@@ -1,6 +1,9 @@
 body{
     background: url(/Resources/Model.jpg) no-repeat;
+    background: #fff;
+    font-size: 62.5%;
     background-size: cover;
+
 }
 nav{
     display: flex;
